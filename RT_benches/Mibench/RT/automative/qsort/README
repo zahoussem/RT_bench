@@ -1,0 +1,8 @@
+This file is edited by : HOUSSAM Eddine ZAHAF to describe 
+the quick sort program:
+the quick sort have the same first parameters as all adapted 
+MiBench to which we add real-time prioriteis, and repeated 
+over a certain number of iterations: 
+
+
+to do more computation , change the MAXARRAY to higher numbers
